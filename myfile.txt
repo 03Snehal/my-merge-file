@@ -1,2 +1,2 @@
 This is my first line in merge exercise.
-
+This line is added in remote repository.
